@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item android:title="Main Menu">
+            <menu>
+            <item
+                android:id="@+id/summary"
+                android:title="Summary"
+                android:icon="@drawable/ic_action_stats"
+            ></item>
+            </menu>
+        </item>
+    <item
+        android:id="@+id/house"
+        android:title="House"
+        android:icon="@drawable/ic_action_house"
+    ></item>
+        <item
+            android:id="@+id/category"
+            android:title="Category"
+            android:icon="@drawable/ic_action_category"
+            ></item>
+        <item
+            android:title="Room"
+            android:id="@+id/room"
+            android:icon="@drawable/ic_action_room"
+            ></item>
+        <item
+            android:title="Appliance"
+            android:id="@+id/appliance"
+            android:icon="@drawable/ic_action_lightbulb"
+            ></item>
+    </group>
+
+    <item android:title="Other">
+        <menu>
+            <item
+                android:id="@+id/settings"
+                android:title="Settings"
+                android:icon="@drawable/ic_action_settings"
+                ></item>
+            <item
+                android:id="@+id/help"
+                android:title="Help"
+                android:icon="@drawable/ic_action_help"
+                ></item>
+
+            <item
+                android:id="@+id/manage"
+                android:title="Manage"
+                android:icon="@drawable/ic_action_manage"
+                ></item>
+            <item
+                android:title="About"
+                android:id="@+id/about"
+                android:icon="@drawable/ic_action_info"
+                ></item>
+
+        </menu>
+    </item>
+
+</menu>

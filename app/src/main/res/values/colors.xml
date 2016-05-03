@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#131516</color>
+
+    <!-- APP THEME COLORS -->
+    <color name="indigo">#0D3D56</color>
+    <color name="sophia">#0F5B78</color>
+    <color name="skye">#117899</color>
+    <color name="alice">#1496BB</color>
+    <color name="jade">#5CA794</color>
+    <color name="kelly">#A3B86C</color>
+    <color name="daisy">#EBC944</color>
+    <color name="amber">#edaa38</color>
+    <color name="april">#F08C2D</color>
+    <color name="coral">#F26D21</color>
+    <color name="rowan">#D94E20</color>
+    <color name="ruby">#C02F1D</color>
+
+
+    <!-- GREY SCALE THEME -->
+    <color name="jet">#131516</color>
+    <color name="raven">#373D3F</color>
+    <color name="asher">#555F61</color>
+    <color name="stone">#707C80</color>
+    <color name="gray">#8C979A</color>
+    <color name="sterling">#A7B0B2</color>
+    <color name="heather">#C1C7C9</color>
+    <color name="pearl">#DADEDF</color>
+    <color name="lilia">#F2F3F4</color>
+
+</resources>

@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">eWare</string>
+
+    <string name="icon_menu">Menu Icon</string>
+    <string name="icon_add">Add Icon</string>
+    <string name="icon_close">Close Icon</string>
+
+    <string name="add_house_headline">Add House</string>
+    <string name="add_room_headline">Add Room</string>
+    <string name="add_category_headline">Add Category</string>
+    <string name="add_appliance_headline">Add Appliance</string>
+    <string name="input_name">Name</string>
+    <string name="input_watt">Watt</string>
+    <string name="input_watt_type">(W)</string>
+    <string name="input_duration">0</string>
+    <string name="input_duration_type">h/day</string>
+    <string name="submit">Submit</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
